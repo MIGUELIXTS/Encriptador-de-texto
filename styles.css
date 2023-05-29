@@ -4,6 +4,17 @@
 
 }
 
+header {
+    background: #E5E5E5;
+}
+
+.logo{
+    padding-top: 10px;
+    margin-left: 10px;
+    width: 10%;
+    background: #E5E5E5;
+}
+
 .contenedor {
     position: relative;
     width: 100vw;
